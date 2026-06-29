@@ -1,0 +1,6 @@
+{
+  "name": "FitQuest",
+  "description": "A cinematic gamified fitness landing page featuring liquid-glass aesthetics, custom crossfading background videos, and immersive progression mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
